@@ -1,10 +1,20 @@
-.link
-{
-   color:aqua;
-   text-decoration: none; 
-   background-color: none;
+body {
+     background color: : #077054;
+     padding: 40;
 }
 footer {
   font-size: 12px;
   padding: 20px 0;
+  color: "#000000";
+}
+
+footer ul {
+color:"black";
+  list-style: none;
+}
+
+footer li img {
+     color: "black";
+  width: 32px;
+  height: 32px;
 }

@@ -24,68 +24,47 @@
   
           
         </div>
-  <div class=" row col-sm-offset-3 col-md-6 " align="center">
-
-
-          <div class="row placeholders ">
-            <div class="col-xs-6 col-sm-3 placeholder well">
-              <a href="Fitness.html"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
-              <h4>Fitness</h4>
-              <span class="text-muted"></span>
-            </div>
-            </a>
-            <div class="col-xs-6 col-sm-3 placeholder well">
-              <a href="Health"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
-              <h4>Health</h4>
-              <span class="text-muted"></span>
-            </div>
-            </a>
-            <div class="col-xs-6 col-sm-3 placeholder well">
-              <a href="Food.html"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
-              <h4>Food</h4>
-              <span class="text-muted"></span>
-            </div>
-            </a>
-            <div class="col-xs-6 col-sm-3 placeholder well">
-              <a href="Beauty.html"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
-              <h4>Beauty</h4>
-              <span class="text-muted"></span>
-            </div>
-            </a>
-          </div>
-          </div>
-<div class=" row col-sm-offset-2 col-md-6 " align="center">
+        <div align="center"><h1>Health</h1></div>
+<h1></h1>
+        
+  <div class=" row col-sm-offset-2 col-md-6 " align="center">
+      
           <div class="container marketing">
-          <h1></h1>
       <div class=" row ">
         <div class="col-xs-6 col-sm-3 placeholder">
           <a href="#"><img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h3>Natural and certified organic hair care Healthy
+          <h3>7 Ways to Make Water Taste Better
+
 </h3>       
         </div>
         </a>
         <div class="col-xs-6 col-sm-3 placeholder">
           <a href="#"><img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h3>What is Mineral Makeup?</h3>
+          <h3> How to Eat a Healthy Diet
+</h3>
         </div>
         </a>
         <div class="col-xs-6 col-sm-3 placeholder">
           <a href=""><img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h3>The worlds best kept natural secret for beautiful</h3>
+          <h3>6 Ways to Boost Women's Health
+</h3>
         </div>
         </div>
          <div class=" row ">
         <div class="col-xs-6 col-sm-3 placeholder">
           <a href=""><img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h3> What does Natural Skin Care actually mean?</h3>
+          <h3>A Guide to Good Personal Hygiene
+</h3>
         </div>
         <div class="col-xs-6 col-sm-3 placeholder">
           <a href=""><img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h3>Jillian Michaels’ 12-Week Post Pregnancy Fitness Plan</h3>
+          <h3>Walking Helps Heart and Brain
+</h3>
         </div>
         <div class="col-xs-6 col-sm-3 placeholder">
           <a href=""><img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h3>A Hard Workout When You’re Angry May Raise Your Heart Attack Risk	</h3>
+          <h3>Why You Need a Health Emergency Fund
+</h3>
         </div>
         </a>
       </div>
@@ -97,7 +76,7 @@
   <li><a href="#">4</a></li>
   <li><a href="#">5</a></li>
 </ul>
-</div>	
+</div>  
 
 <footer class="container well">
  <div class="row">

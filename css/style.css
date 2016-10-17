@@ -1,10 +1,24 @@
-.link
-{
-   color:aqua;
-   text-decoration: none; 
-   background-color: none;
+body {
+     background: #077054;
+     color: #315f52;
+     font-family: 'latoregular';
+     font-size: 14px;
+     margin: 0;
+     padding: 0;
 }
 footer {
   font-size: 12px;
   padding: 20px 0;
+  color: "#000000";
+}
+
+footer ul {
+color:"black";
+  list-style: none;
+}
+
+footer li img {
+     color: "black";
+  width: 32px;
+  height: 32px;
 }
